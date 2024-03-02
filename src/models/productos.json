@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Computadora Ryzen 5",
+    "description": "Computadora con microprocesador Ryzen 5.",
+    "price": "$ 300000",
+    "img": "Sin Imagen",
+    "code": "PcRyzen5",
+    "stock": "150",
+    "category": "computacion",
+    "status": true,
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Computadora Ryzen 3",
+    "description": "Computadora con microprocesador Ryzen 3.",
+    "price": "$ 200000",
+    "img": "Sin Imagen",
+    "code": "PcRyzen3",
+    "stock": "150",
+    "category": "Computacion",
+    "status": true,
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "Playstation 5",
+    "description": "Consola de juegos playstation 5 con un joystick.",
+    "price": "$ 1800000",
+    "img": "Sin Imagen",
+    "code": "Play5",
+    "stock": "150",
+    "category": "consolas",
+    "status": true,
+    "thumbnails": [],
+    "id": 4
+  },
+  {
+    "title": "Computadora Ryzen 7",
+    "description": "buena computadora para gaming",
+    "price": "$ 500000",
+    "img": "sin imagen",
+    "code": "pcryzen7",
+    "stock": "12",
+    "category": "computacion",
+    "status": true,
+    "thumbnails": [],
+    "id": 5
+  }
+]
